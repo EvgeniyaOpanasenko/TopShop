@@ -8,5 +8,6 @@ public class TopShopApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TopShopApplication.class, args);
+		System.out.println("Hello git!");
 	}
 }
